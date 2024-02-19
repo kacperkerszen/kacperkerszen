@@ -1,4 +1,4 @@
 Kacper Kerszen
 - 📈 Data Analyst
-- 🚀 Python, SQL, Tableau and more
+- 🚀 Python, R, SQL, Tableau, PowerBI and more
 - 📚 Intrested in Energy Market, Finance, Environmental protection
